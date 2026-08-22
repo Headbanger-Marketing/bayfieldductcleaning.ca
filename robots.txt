@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bayfieldductcleaning.ca/sitemap-index.xml
