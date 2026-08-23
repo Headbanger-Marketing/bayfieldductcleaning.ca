@@ -1,2 +1,25 @@
 # Bayfield Duct Cleaning
-HVAC services in Ontario.
+
+> Bayfield Duct Cleaning is a local HVAC company serving Bayfield, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 565-0204  |  Email: contact@bayfieldductcleaning.ca  |  Website: https://bayfieldductcleaning.ca
+
+## Key pages
+
+- [Home](https://bayfieldductcleaning.ca/): Bayfield Duct Cleaning homepage with service overview and FAQ
+- [About](https://bayfieldductcleaning.ca/about/): About the company and service area
+- [Contact](https://bayfieldductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://bayfieldductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Bayfield, Ontario
+- [Dryer Vent Cleaning](https://bayfieldductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Bayfield, Ontario
+- [Furnace & AC Cleaning](https://bayfieldductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Bayfield, Ontario
+- [HRV & Ventilation Cleaning](https://bayfieldductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Bayfield, Ontario
+- [Duct Sanitizing & Deodorizing](https://bayfieldductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Bayfield, Ontario
+- [Duct Sealing & Repair](https://bayfieldductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Bayfield, Ontario
+- [Commercial Duct Cleaning](https://bayfieldductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Bayfield, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Bayfield are answered on the homepage.
